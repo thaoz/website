@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Read more about Quarto blogs here.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\n\n\n\n\n\nOct 25, 2022\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\n\n\n\n\nOct 22, 2022\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/post-with-code/index.html",
+    "href": "blog/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "talks/talk_1/index.html",
+    "href": "talks/talk_1/index.html",
+    "title": "Building Website in R: Step by Step Introduction to blogdown",
+    "section": "",
+    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "projects/project_transfusion/transfusion.html",
+    "href": "projects/project_transfusion/transfusion.html",
+    "title": "Transfusion Research",
+    "section": "",
+    "text": "I am a clinical trial statistician for the following clinical trials in transfusion research:"
+  },
+  {
+    "objectID": "projects/project_transfusion/transfusion.html#ongoing",
+    "href": "projects/project_transfusion/transfusion.html#ongoing",
+    "title": "Transfusion Research",
+    "section": "Ongoing",
+    "text": "Ongoing\n\nRATIONAL Platform Trial & RATIONALISE Trial\n\nOptimizing use of Ig in patients with blood cancer\nWebsite: https://www.rationalisetrial.com\n\nRed BlOod Cell TranSfusion in ECMO – a piloT TriAl (the ROSETTA trial)\n\nOptimal transfusion thresholds for ECMO patients\n\nAn n-of-1 feasibility trial of weekly interval red cell transfusion schedule in myelodysplastic syndromes patients (The REDDS-2 Study)\n\nAssess a novel transfusion schedule in patients with MDS\nWebsite: https://www.monash.edu/medicine/redds2\n\nDIAAMOND-Ava-FIRST\n\nAssess a new treatment (avatrombopag) in patients with sever aplastic anemia"
+  },
+  {
+    "objectID": "projects/project_transfusion/transfusion.html#finished",
+    "href": "projects/project_transfusion/transfusion.html#finished",
+    "title": "Transfusion Research",
+    "section": "Finished",
+    "text": "Finished\n\nImmunoglobulin replacement vs prophylactic antibiotics for hypogammaglobulinemia secondary to hematological malignancy. / McQuilten, Zoe K.; Weinkove, Robert; Thao, Le Thi Phuong et al. \nIn: Blood Advances, Vol. 8, No. 7, 09.04.2024, p. 1787-1795"
+  },
+  {
+    "objectID": "projects/project_aspree/aspree.html",
+    "href": "projects/project_aspree/aspree.html",
+    "title": "ASPREE",
+    "section": "",
+    "text": "Selected publications on the effect of daily low-dose aspirin (100mg) on secondary outcomes using data from the ASPREE study\n\nEffect of low-dose aspirin versus placebo on incidence of anemia in the elderly: A secondary analysis of the Aspirin in Reducing Events in the Elderly Trial. / McQuilten, Zoe K.; Thao, Le Thi Phuong; Pasricha, Sant Rayn et al. \nIn: Annals of Internal Medicine, Vol. 176, No. 7, 01.07.2023, p. 913-921.\nLow-Dose Aspirin and the Risk of Stroke and Intracerebral Bleeding in Healthy Older People: Secondary Analysis of a Randomized Clinical Trial. / Cloud, Geoffrey C.; Williamson, Jeff D.; Thao, Le Thi Phuong et al. \nIn: JAMA Network Open, Vol. 6, No. 7, e2325803, 03.07.2023.\nDaily Low-Dose Aspirin and Risk of Serious Falls and Fractures in Healthy Older People: A Substudy of the ASPREE Randomized Clinical Trial. / Barker, Anna L.; Morello, Renata; Thao, Le Thi Phuong et al. \nIn: JAMA Internal Medicine, Vol. 182, No. 12, 01.12.2022, p. 1289-1297.\nCKD Biomarkers, Cognitive Impairment, and Incident Dementia in an Older Healthy Cohort. / Murray, Anne M.; Thao, Le Thi Phuong; Ryan, Joanne et al. \nIn: Kidney360, Vol. 3, No. 3, 03.2022, p. 435-445.\nEffect of Aspirin on CKD Progression in Older Adults: Secondary Analysis From the ASPREE Randomized Clinical Trial. / Polkinghorne, Kevan R.; Wetmore, James B.; Thao, Le Thi Phuong et al. \nIn: American Journal of Kidney Diseases, Vol. 80, No. 6, 12.2022, p. 810-813."
+  },
+  {
+    "objectID": "projects/project_complex_survival/survival.html",
+    "href": "projects/project_complex_survival/survival.html",
+    "title": "Complex survival data analysis",
+    "section": "",
+    "text": "A multistate model of health transitions in older people: a secondary analysis of ASPREE clinical trial data. / Neumann, Johannes T.; Thao, Le Thi Phuong (CO-FIRST AUTHOR); Callander, Emily et al. \nIn: The Lancet Healthy Longevity, Vol. 3, No. 2, 02.2022, p. e89-e97.\n\nSchool of Public Health and Preventive Medicine Early Career Researcher best paper award for 2023\n\nHandling missing disease information due to death in diseases that need two visits to diagnose. / Thao, Le Thi Phuong (Corresponding author); Wolfe, Rory; Heritier, Stephane et al. \nIn: Statistics in Medicine, Vol. 43, No. 9, 30.04.2024, p. 1708-1725.\n\nAusTrim Seed funding grant"
+  },
+  {
+    "objectID": "projects/index1.html",
+    "href": "projects/index1.html",
+    "title": "Projects",
+    "section": "",
+    "text": "ASPREE\n\n\n\n\n\n\n\n\n\n\n\n\n\nComplex survival data analysis\n\n\n\n\n\n\n\n\n\n\n\n\n\nRisk prediction project\n\n\n\n\n\n\n\n\n\n\n\n\n\nTransfusion Research\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/project_risk_prediction/Risk_prediction.html",
+    "href": "projects/project_risk_prediction/Risk_prediction.html",
+    "title": "Risk prediction project",
+    "section": "",
+    "text": "Prognostic models for 9-month mortality in tuberculous meningitis. / Thao, Le Thi Phuong; Heemskerk, A. Dorothee; Geskus, Ronald B. et al. \nIn: Clinical Infectious Diseases, Vol. 66, No. 4, 15.02.2018, p. 523-532.\n\nRisk calculator: https://thaole.shinyapps.io/tbmapp/\n\nDynamic prediction of death in patients with tuberculous meningitis using time-updated glasgow coma scale and plasma sodium measurements. / Thao, Le Thi Phuong; Wolbers, Marcel; Dorothee Heemskerk, A. et al. \nIn: Clinical Infectious Diseases, Vol. 70, No. 5, 01.03.2020, p. 827-834.\n\nRisk calculator:  https://thaole.shinyapps.io/DynamicTBMApp/\n\nPrediction of disability-free survival in healthy older people. / Neumann, Johannes Tobias; Thao, Le Thi Phuong (CO-FIRST AUTHOR); Murray, Anne et al. \nIn: GeroScience, Vol. 44, No. 3, 06.2022, p. 1641-1655.\nCardiovascular risk prediction in healthy older people. / Neumann, Johannes T.; Thao, Le Thi Phuong; Callander, Emily et al. \nIn: GeroScience, Vol. 44, No. 1, 02.2022, p. 403-413."
+  },
+  {
+    "objectID": "projects/project_risk_prediction/Risk_prediction.html#application",
+    "href": "projects/project_risk_prediction/Risk_prediction.html#application",
+    "title": "Risk prediction project",
+    "section": "",
+    "text": "Prognostic models for 9-month mortality in tuberculous meningitis. / Thao, Le Thi Phuong; Heemskerk, A. Dorothee; Geskus, Ronald B. et al. \nIn: Clinical Infectious Diseases, Vol. 66, No. 4, 15.02.2018, p. 523-532.\n\nRisk calculator: https://thaole.shinyapps.io/tbmapp/\n\nDynamic prediction of death in patients with tuberculous meningitis using time-updated glasgow coma scale and plasma sodium measurements. / Thao, Le Thi Phuong; Wolbers, Marcel; Dorothee Heemskerk, A. et al. \nIn: Clinical Infectious Diseases, Vol. 70, No. 5, 01.03.2020, p. 827-834.\n\nRisk calculator:  https://thaole.shinyapps.io/DynamicTBMApp/\n\nPrediction of disability-free survival in healthy older people. / Neumann, Johannes Tobias; Thao, Le Thi Phuong (CO-FIRST AUTHOR); Murray, Anne et al. \nIn: GeroScience, Vol. 44, No. 3, 06.2022, p. 1641-1655.\nCardiovascular risk prediction in healthy older people. / Neumann, Johannes T.; Thao, Le Thi Phuong; Callander, Emily et al. \nIn: GeroScience, Vol. 44, No. 1, 02.2022, p. 403-413."
+  },
+  {
+    "objectID": "projects/project_risk_prediction/Risk_prediction.html#statistical-paper",
+    "href": "projects/project_risk_prediction/Risk_prediction.html#statistical-paper",
+    "title": "Risk prediction project",
+    "section": "Statistical paper",
+    "text": "Statistical paper\nA comparison of model selection methods for prediction in the presence of multiply imputed data. / Thao, Le Thi Phuong (Corresponding author); Geskus, Ronald. \nIn: Biometrical Journal, Vol. 61, No. 2, 03.2019, p. 343-356.\n\nBiometrical journal, Wiley top download paper 2018-2019"
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#rstats",
+    "href": "talks/index.html#rstats",
+    "title": "Talks",
+    "section": "",
+    "text": "Talk at Oslo UseR meetup\n\n\n\n\n\nApr 2, 2019\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/index.html#electronic-health-records",
+    "href": "talks/index.html#electronic-health-records",
+    "title": "Talks",
+    "section": "Electronic Health Records",
+    "text": "Electronic Health Records\n\n\n\n\n\n\n\n\n\n\nLearning from Hospital EHR data with R\n\n\n\n\n\nA 15 minutes introduction to hospital EHR data\n\n\n\n\n\nOct 28, 2019\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Thao Le",
+    "section": "",
+    "text": "Twitter\n  \n  \n    \n     Github\n  \n  \n    \n     ORCiD\n  \n\n  \n  \n\n\nHello, I am Thao Le.\nI am a biostatistician at the School of Public Health and Preventive Medicine, Monash University, Australia. Currently I split my time between the Blood Transfusion Research Unit (TRU) and the Australian Trials Methodology (AusTriM) Research Network. At TRU, I work mainly as a clinical trial statistician, involved in the design and analysis of several RCTs in transfusion research. Apart from that, I spend 2 days a week doing research on statistical methodology in clinical trial design and analysis. I am also a member of the Victorian Centre for Biostatistics (ViCBiostat) where I coordinated the Work-In-Progress sessions, and occasionally teach at workshops and the Summer School courses on risk prediction and survival analysis topics.\nI am interested in statistical methodology and applications in risk prediction modelling, complex survival analysis, causal inference, and clinical trial design and analysis.\nMy non-work interests include sewing, cooking and travelling. I started sewing as a lock-down activity, just bought a sewing machine and learned everything from the internet. A few years later, I am slowly making my own wardrobe.\nYou can find some of my academic work here. In case you are also interested in my sewing work, and happen to have an instagram account, you can follow me at thao.made.\n\n\n\nDPhil in Biostatistics, 2019\nOxford University | UK\nThesis title: “Prediction models for mortality in tuberculous meningitis”\nMaster in Statistics, 2014\nHasselt University | Belgium"
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Thao Le",
+    "section": "",
+    "text": "Hello, I am Thao Le.\nI am a biostatistician at the School of Public Health and Preventive Medicine, Monash University, Australia. Currently I split my time between the Blood Transfusion Research Unit (TRU) and the Australian Trials Methodology (AusTriM) Research Network. At TRU, I work mainly as a clinical trial statistician, involved in the design and analysis of several RCTs in transfusion research. Apart from that, I spend 2 days a week doing research on statistical methodology in clinical trial design and analysis. I am also a member of the Victorian Centre for Biostatistics (ViCBiostat) where I coordinated the Work-In-Progress sessions, and occasionally teach at workshops and the Summer School courses on risk prediction and survival analysis topics.\nI am interested in statistical methodology and applications in risk prediction modelling, complex survival analysis, causal inference, and clinical trial design and analysis.\nMy non-work interests include sewing, cooking and travelling. I started sewing as a lock-down activity, just bought a sewing machine and learned everything from the internet. A few years later, I am slowly making my own wardrobe.\nYou can find some of my academic work here. In case you are also interested in my sewing work, and happen to have an instagram account, you can follow me at thao.made."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Thao Le",
+    "section": "",
+    "text": "DPhil in Biostatistics, 2019\nOxford University | UK\nThesis title: “Prediction models for mortality in tuberculous meningitis”\nMaster in Statistics, 2014\nHasselt University | Belgium"
+  },
+  {
+    "objectID": "blog/welcome/index.html",
+    "href": "blog/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about_template.html",
+    "href": "about_template.html",
+    "title": "About this template",
+    "section": "",
+    "text": "About this template\n\n\n\nThis page contains some elaborated background information about your workshop, or the instructors.\n\n\nThis is to demonstrate how to make a drop-down page from the navigation bar."
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/post-with-code/index.html",
+      "/blog/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index1.html",
+    "items": [
+      "/projects/project_aspree/aspree.html",
+      "/projects/project_complex_survival/survival.html",
+      "/projects/project_risk_prediction/Risk_prediction.html",
+      "/projects/project_transfusion/transfusion.html"
+    ]
+  },
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/talk_1/index.html",
+      "/talks/talk_2/index.html"
+    ]
+  }
+]
