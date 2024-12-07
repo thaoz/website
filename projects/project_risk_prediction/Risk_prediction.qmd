@@ -1,0 +1,31 @@
+---
+title: "Risk prediction project"
+image: "dynamic.jpg"
+---
+
+## Application
+
+**Prognostic models for 9-month mortality in tuberculous meningitis.** / Thao, Le Thi Phuong; Heemskerk, A. Dorothee; Geskus, Ronald B. et al. \
+In: Clinical Infectious Diseases, Vol. 66, No. 4, 15.02.2018, p. 523-532.
+
+-   Risk calculator: <https://thaole.shinyapps.io/tbmapp/>
+
+**Dynamic prediction of death in patients with tuberculous meningitis using time-updated glasgow coma scale and plasma sodium measurements.** / Thao, Le Thi Phuong; Wolbers, Marcel; Dorothee Heemskerk, A. et al. \
+In: Clinical Infectious Diseases, Vol. 70, No. 5, 01.03.2020, p. 827-834.
+
+-   Risk calculator:  <https://thaole.shinyapps.io/DynamicTBMApp/>
+
+**Prediction of disability-free survival in healthy older people.** / Neumann, Johannes Tobias; Thao, Le Thi Phuong (CO-FIRST AUTHOR); Murray, Anne et al. \
+In: GeroScience, Vol. 44, No. 3, 06.2022, p. 1641-1655.
+
+**Cardiovascular risk prediction in healthy older people.** / Neumann, Johannes T.; Thao, Le Thi Phuong; Callander, Emily et al. \
+In: GeroScience, Vol. 44, No. 1, 02.2022, p. 403-413.
+
+## Statistical paper
+
+**A comparison of model selection methods for prediction in the presence of multiply imputed data.** / Thao, Le Thi Phuong (Corresponding author); Geskus, Ronald. \
+In: Biometrical Journal, Vol. 61, No. 2, 03.2019, p. 343-356.
+
+-   Biometrical journal, Wiley top download paper 2018-2019
+
+

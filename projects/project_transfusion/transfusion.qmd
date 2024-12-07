@@ -1,0 +1,33 @@
+---
+title: "Transfusion Research"
+image: "blood.jpg"
+---
+
+I am a clinical trial statistician for the following clinical trials in transfusion research:
+
+## Ongoing
+
+-   RATIONAL Platform Trial & RATIONALISE Trial
+
+    -   Optimizing use of Ig in patients with blood cancer
+
+    -   Website: <https://www.rationalisetrial.com>
+
+-   Red BlOod Cell TranSfusion in ECMO – a piloT TriAl (the ROSETTA trial)
+
+    -   Optimal transfusion thresholds for ECMO patients
+
+-   An n-of-1 feasibility trial of weekly interval red cell transfusion schedule in myelodysplastic syndromes patients (The REDDS-2 Study)
+
+    -   Assess a novel transfusion schedule in patients with MDS
+
+    -   Website: <https://www.monash.edu/medicine/redds2>
+
+-   DIAAMOND-Ava-FIRST
+
+    -   Assess a new treatment (avatrombopag) in patients with sever aplastic anemia
+
+## Finished
+
+-   **Immunoglobulin replacement vs prophylactic antibiotics for hypogammaglobulinemia secondary to hematological malignancy.** / McQuilten, Zoe K.; Weinkove, Robert; Thao, Le Thi Phuong et al. \
+    In: Blood Advances, Vol. 8, No. 7, 09.04.2024, p. 1787-1795

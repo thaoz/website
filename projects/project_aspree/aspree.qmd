@@ -1,0 +1,23 @@
+---
+title: "ASPREE"
+image: aspree-small.jpg
+---
+
+Selected publications on the effect of daily low-dose aspirin (100mg) on secondary outcomes using data from the ASPREE study
+
+::: {#pubs}
+**Effect of low-dose aspirin versus placebo on incidence of anemia in the elderly: A secondary analysis of the Aspirin in Reducing Events in the Elderly Trial.** / McQuilten, Zoe K.; Thao, Le Thi Phuong; Pasricha, Sant Rayn et al. \
+In: Annals of Internal Medicine, Vol. 176, No. 7, 01.07.2023, p. 913-921.
+
+**Low-Dose Aspirin and the Risk of Stroke and Intracerebral Bleeding in Healthy Older People: Secondary Analysis of a Randomized Clinical Trial.** / Cloud, Geoffrey C.; Williamson, Jeff D.; Thao, Le Thi Phuong et al. \
+In: JAMA Network Open, Vol. 6, No. 7, e2325803, 03.07.2023.
+
+**Daily Low-Dose Aspirin and Risk of Serious Falls and Fractures in Healthy Older People: A Substudy of the ASPREE Randomized Clinical Trial.** / Barker, Anna L.; Morello, Renata; Thao, Le Thi Phuong et al. \
+In: JAMA Internal Medicine, Vol. 182, No. 12, 01.12.2022, p. 1289-1297.
+
+**CKD Biomarkers, Cognitive Impairment, and Incident Dementia in an Older Healthy Cohort.** / Murray, Anne M.; Thao, Le Thi Phuong; Ryan, Joanne et al. \
+In: Kidney360, Vol. 3, No. 3, 03.2022, p. 435-445.
+
+**Effect of Aspirin on CKD Progression in Older Adults: Secondary Analysis From the ASPREE Randomized Clinical Trial.** / Polkinghorne, Kevan R.; Wetmore, James B.; Thao, Le Thi Phuong et al. \
+In: American Journal of Kidney Diseases, Vol. 80, No. 6, 12.2022, p. 810-813.
+:::

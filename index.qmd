@@ -1,0 +1,41 @@
+---
+title: "Thao Le"
+subtitle: "Senior Reseach Fellow | Biostatistician"
+image: ThaoLe.jpg
+about:
+  id: hero-heading
+  template: trestles
+  image-shape: rounded
+  image-width: 150px
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/lpThao
+    - icon: github
+      text: Github
+      href: https://github.com/thaoz
+    - icon: orcid
+      text: ORCiD
+      href: https://orcid.org/0000-0001-9661-6835
+---
+
+::: {#hero-heading}
+## About me
+Hello, I am *Thao Le*.\
+I am a biostatistician at the School of Public Health and Preventive Medicine, Monash University, Australia. Currently I split my time between the Blood Transfusion Research Unit ([TRU](https://www.monash.edu/medicine/sphpm/units/transfusionresearch)) and the Australian Trials Methodology ([AusTriM](https://www.monash.edu/medicine/sphpm/austrim/home)) Research Network. At TRU, I work mainly as a clinical trial statistician, involved in the design and analysis of several RCTs in transfusion research. Apart from that, I spend 2 days a week doing research on statistical methodology in clinical trial design and analysis. I am also a member of the Victorian Centre for Biostatistics ([ViCBiostat](https://www.vicbiostat.org.au)) where I coordinated the Work-In-Progress sessions, and occasionally teach at workshops and the Summer School courses on risk prediction and survival analysis topics.
+
+I am interested in statistical methodology and applications in risk prediction modelling, complex survival analysis, causal inference, and clinical trial design and analysis.
+
+My non-work interests include sewing, cooking and travelling. I started sewing as a lock-down activity, just bought a sewing machine and learned everything from the internet. A few years later, I am slowly making my own wardrobe.
+
+You can find some of my academic work here. In case you are also interested in my sewing work, and happen to have an instagram account, you can follow me at thao.made.
+
+## Education
+
+**DPhil in Biostatistics, 2019**\
+Oxford University \| UK\
+Thesis title: "Prediction models for mortality in tuberculous meningitis"
+
+**Master in Statistics, 2014**\
+Hasselt University \| Belgium
+:::

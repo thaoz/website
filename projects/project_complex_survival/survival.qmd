@@ -1,0 +1,14 @@
+---
+title: "Complex survival data analysis"
+image: "multi-state-small.jpg"
+---
+
+**A multistate model of health transitions in older people: a secondary analysis of ASPREE clinical trial data.** / Neumann, Johannes T.; Thao, Le Thi Phuong (CO-FIRST AUTHOR); Callander, Emily et al. \
+In: The Lancet Healthy Longevity, Vol. 3, No. 2, 02.2022, p. e89-e97.
+
+-   School of Public Health and Preventive Medicine Early Career Researcher best paper award for 2023
+
+**Handling missing disease information due to death in diseases that need two visits to diagnose.** / Thao, Le Thi Phuong (Corresponding author); Wolfe, Rory; Heritier, Stephane et al. \
+In: Statistics in Medicine, Vol. 43, No. 9, 30.04.2024, p. 1708-1725.
+
+-   AusTrim Seed funding grant

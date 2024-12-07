@@ -1,0 +1,26 @@
+---
+title: "Projects"
+description: "" 
+listing:
+  - id: ehr
+    max-description-length: 500
+    image-height: 150px
+    fields: [image, title]
+    contents: 
+      - project_risk_prediction
+      - project_complex_survival
+      - project_aspree
+      - project_transfusion
+    type: grid
+    grid-item-border: false
+
+---
+
+::: {#ehr}
+:::
+    
+ 
+      
+      
+      
+      
